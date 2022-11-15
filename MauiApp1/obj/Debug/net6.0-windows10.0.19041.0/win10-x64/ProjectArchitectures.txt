@@ -1,0 +1,1 @@
+C:\Users\vicen\Desktop\lab\.Net 6 Esencial\Maui\MauiApp1\MauiApp1.csproj;x64
